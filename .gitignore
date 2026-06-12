@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+venv/
+.venv/
+
+
+.env
+node_modules/
+
+
+dist/
+build/
+
+
+*.log
+
+.vscode/
+
+
+.DS_Store
+Thumbs.db
+
+
+.pytest_cache/
+
+# Coverage
+.coverage
+htmlcov/
+
+# Docker
+*.tar
+
+# Database
+*.sqlite3
+
+# Temporary Files
+temp/
+tmp/
